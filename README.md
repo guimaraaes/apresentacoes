@@ -7,3 +7,6 @@
 * [lista de exercício](#technologies)
 * [exemplos práticos](#setup)
 * [slide](#setup)
+
+## contato
+* [email](sguimaraaes@gmail.com)
