@@ -5,4 +5,4 @@ estruturas de controle, comandos de repetição, comandos de entrada e saída, v
 plano de aula, slide e códigos dos exemplos realizados na aula
  
 ## contato
-* [email](sguimaraaes@gmail.com)
+email: sguimaraaes@gmail.com
